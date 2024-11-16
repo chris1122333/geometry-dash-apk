@@ -4,7 +4,7 @@
 <p style="text-align: left;">Picture this: you're controlling a cute little geometric shape, bouncing and flipping through neon-colored obstacles, all while grooving to some killer electronic beats. That's Geometry Dash in a nutshell! But it's way more than just another mobile game &ndash; it's like a perfect mix of a music player and an obstacle course that'll keep you on the edge of your seat.</p>
 <p style="text-align: center;"><img src="https://img.thegeometrydashapk.com/uploads/2024/09/Geometry-Dash-2.2-APK-3.webp" alt="Geometry Dash APK" width="500" height="900" /></p>
 <h3 style="text-align: left;">Additional Information About Geometry Dash APK</h3>
-<p>Created by the genius minds at RobTop Games, this isn't your average tap-to-play game. Every level is a handcrafted challenge that syncs perfectly with its soundtrack. The best part? The latest version brings some seriously cool updates that'll make your geometric adventures even more exciting!</p>
+<p>Created by the genius minds at <a title="RobTop Games" href="https://www.robtopgames.com/">RobTop Games</a>, this isn't your average tap-to-play game. Every level is a handcrafted challenge that syncs perfectly with its soundtrack. The best part? The latest version brings some seriously cool updates that'll make your geometric adventures even more exciting!</p>
 <h2>Features of Geometry Dash APK</h2>
 <h3>Performance Enhancement</h3>
 <p>This new version runs smoother than butter on a hot pancake! The developers have worked their magic to reduce lag and improve frame rates. Trust me, when you're trying to nail that perfect jump, every millisecond counts!</p>
